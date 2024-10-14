@@ -1,2 +1,2 @@
-# read the README
-You just read the README!
+# ABOUTME
+I'm not telling you about me, you're a stranger!
