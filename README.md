@@ -1,2 +1,2 @@
-# hello-world
-Saying hello to the world!
+# read the README
+You just read the README!
