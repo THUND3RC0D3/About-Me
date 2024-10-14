@@ -10,6 +10,4 @@
 - I am a *Civil Air Patrol* cadet, and my rank is Airman First-Class.
 - I have experience with flying a Cessna aircraft as a copilot.
 
-> What is Civil Air Patrol: https://www.gocivilairpatrol.com/about/who-we-are
-
-These are all the facts about me that I wanted to share with you all!
+> What Civil Air Patrol is: https://www.gocivilairpatrol.com/about/who-we-are
