@@ -1,4 +1,4 @@
-###### *This is my about me page*:
+###### *Hello world, this is my about me page*:
 
 ## ABOUT ME 
 
