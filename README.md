@@ -2,5 +2,8 @@ This is my about me page:
 
 ## ABOUTME 
 
-- I'm a GitHub noob 
-- I sometimes develop experiences in Roblox Studio
+- I've just started programming in GitHub.
+- I develop experiences in Roblox Studio.
+This is my about me, and it's all I'm comfortable telling you!
+
+### ABOUTME End
