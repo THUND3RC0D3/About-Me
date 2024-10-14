@@ -3,7 +3,7 @@
 ## ABOUT ME 
 
 - I'm interested in the Python coding language.
-- I've just started programming in **GitHub**. (I might change this line.)
+- I've just started using **GitHub** and have very little experience with it.
 - I have some experience with developing games in **Roblox Studio**.
 - I got my name *THUND3RC0D3* from the port type, thunderbolt, and adjusted it to sound related to coding.
 - I want to be a professional UX / UI designer for websites, apps, extensions, etc.
